@@ -1,1 +1,9 @@
 testing 'another-branch'
+
+
+commands used:
+
+
+git branch <branch-name> // to create a branch
+
+git push --set-upstream origin <branch name> // to push branch into main repo
