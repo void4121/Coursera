@@ -1,0 +1,8 @@
+- we can make edits to multiple files and treat that collection ofg edits as a single change 
+which is commonly known as a commit
+
+- VCS keeps a history/record of previously written code
+
+- files are organized in repos
+
+- 

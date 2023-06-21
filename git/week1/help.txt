@@ -1,0 +1,9 @@
+diff - command allows you to see changes that were made between two files
+wdiff - is similar to diff although it gives shorter examples
+
+using diff command, comparing two files, and using > 'file_name.dff' will output the changes into another file
+
+patch - command will take a .diff file and the original file and apply the changes from .diff file to OG file
+
+
+git config - will allow us to tell git who we are in order to keep track in the VCS
