@@ -1,0 +1,2 @@
+Hello, 
+This is me testing if I can merge/rebase from my new branch in the home directory
