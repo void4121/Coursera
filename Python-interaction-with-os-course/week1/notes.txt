@@ -1,0 +1,6 @@
+- Adding a Shebang will allow the developer to tell the program where to find programs to execute
+
+- After we can then make the file executable by using command: chmod +x 'File_name'
+
+
+- Lastly run './{file_name}' in order to run the file

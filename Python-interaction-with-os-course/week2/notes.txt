@@ -1,0 +1,2 @@
+- Read  allows users to read a single line
+- Readline allows us to read the whole file but starting from the last read line

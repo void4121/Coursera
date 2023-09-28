@@ -1,0 +1,9 @@
+ ##
+- python modules can be small segments of code in order to be reused
+- python modules can be imported in the file at the top of the script
+
+* - init.py file is a special file and is read when the file gets imported. 
+This is used by the interpreter to check if a directory with Python files 
+should be a module
+
+- without init.py the interpreter will not know that directory is a module
